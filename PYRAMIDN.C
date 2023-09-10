@@ -19,3 +19,10 @@ int main() {
     }
     return 0;
 }
+output:
+Enter the number:5
+1
+01
+101
+0101
+10101
