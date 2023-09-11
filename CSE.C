@@ -61,3 +61,15 @@ int main() {
    }
     return 0;
 }
+output:
+Enter the number:9
+Enter the j range value:5
+* * * * *    * * * * *    * * * * * 
+*            *            *         
+*            *            *         
+*            *            *         
+*            * * * * *    * * * * * 
+*                    *    *         
+*                    *    *         
+*                    *    *         
+* * * * *    * * * * *    * * * * * 
