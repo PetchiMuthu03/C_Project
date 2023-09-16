@@ -16,3 +16,6 @@ int main() {
     printf("Decimal number is:%d",dec);
     return 0;
 }
+output:
+Enter the binary number:1111
+Decimal number is:15
