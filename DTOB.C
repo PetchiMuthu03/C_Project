@@ -1,20 +1,19 @@
 #include <stdio.h>
+
 int main() {
-    int n,rem,arr[10],i,bin=0;
-    printf("Enter the decimal number:");
-    scanf("%d",&n);
-    i=0;
-    while(n!=0)
-    {
-        rem=n%2;
-        arr[i]=rem;
-        bin++;
-        n=n/2;
-        i++;
-    }
-    for(i=i-1;i>=0;i--)
-    {
-    printf("%d",arr[i]);
-    }
+   int i=0,count=0,dec,n,arr1[10];
+   printf("Enter the decimal number:");
+   scanf("%d",&n);
+   while(n>0)
+   {
+       arr1[i]=n%2;
+       n=n/2;
+       i++;
+   }
+   
+   for(int j=i-1;j>=0;j--)
+   {
+       printf("%d",arr1[j]);
+   }
     return 0;
 }
