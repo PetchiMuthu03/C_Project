@@ -22,7 +22,7 @@ Innovation
 
 The 2nd phase describes the innovative steps used along with the libraries to be imported
 
-Phase 2 - https://github.com/PetchiMuthu03/C\_Project/blob/main/AI\_Phase2.pdf
+Phase 2 - https://github.com/PetchiMuthu03/C_Project/blob/main/AI_Phase2.pdf
 
 Development part 1
 
