@@ -28,7 +28,7 @@ Development part 1
 
 This part includes loading and preprocessing the dataset
 
-Phase 3 - https://github.com/PetchiMuthu03/C\_Project/blob/main/AI\_Phase3.pdf
+Phase 3 - https://github.com/PetchiMuthu03/C_Project/blob/main/AI_Phase3.pdf
 
 Development part 2
 
