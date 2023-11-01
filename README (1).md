@@ -16,7 +16,7 @@ Problem definition and design thinking
 
 The 1st phase decribes the problem definition and design thinking
 
-Phase 1 - https://github.com/PetchiMuthu03/C\_Project/blob/main/AI\_phase1%20(2).docx
+Phase 1 - https://github.com/PetchiMuthu03/C_Project/blob/main/AI_phase1.docx
 
 Innovation
 
