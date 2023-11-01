@@ -34,4 +34,4 @@ Development part 2
 
 This part includes feature selection,model training,evaluation
 
-Phase 4 - https://github.com/PetchiMuthu03/C\_Project/blob/main/AI\_Phase4%20(1).ipynb
+Phase 4 - https://github.com/PetchiMuthu03/C_Project/blob/main/AI_Phase4%20(1).ipynb
