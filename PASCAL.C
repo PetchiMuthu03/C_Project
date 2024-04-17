@@ -1,29 +1,26 @@
 #include <stdio.h>
 
 int main() {
-   int i,j,n,a[20][20],s;
-   printf("Enter the number:");
-   scanf("%d",&n);
+   
+   int i,j,s,n=5,c;
    for(i=0;i<n;i++)
    {
-       for(s=0;s<n-i-1;s++)
+       for(s=0;s<n-1-i;s++)
        {
            printf(" ");
        }
-       for(j=0;j<=i;j++)
-       {
-           if(j==0||i==j)
+           for(j=0;j<i+1;j++)
            {
-               a[i][j]=1;
-               printf("%2d",a[i][j]);
+              if(i==0||j==0){
+                  c=1;
+              }
+              else
+              {
+                  c=(c*(i-j+1)/j);
+              }
+              printf("%d ",c);
            }
-           else
-           {
-               a[i][j]=a[i-1][j-1]+a[i-1][j];
-               printf("%2d",a[i][j]);
-           }
-       }
-       printf("\n");
+           printf("\n");
    }
     return 0;
 }
